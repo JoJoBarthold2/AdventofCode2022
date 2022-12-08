@@ -1,4 +1,4 @@
-lst = open("myInput").read().split("\n\n")
+lst = open("../myInput").read().split("\n\n")
 
 result =[]
 for elem in lst:
